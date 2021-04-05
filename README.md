@@ -5,11 +5,11 @@
 
 * 👋 I’m **Developer | Programmer | Learner** <br>
 * 💻 Currently working as Automation Engineer @ [Compare The Market](https://www.comparethemarket.com.au)
-* 🌱 Currently Learning Security Testing & React JS  
+* 🌱 Currently Learning Security Testing & Go Lang 
 * 📫 Reach me on: jid.madhu@gmail.com
-* [Resume](https://drive.google.com/file/d/1fZYQB8Ov950Jf-Fwz3LmpuQDujfIYHMk/view?usp=sharing)
+* 📝 [Resume](https://drive.google.com/file/d/1fZYQB8Ov950Jf-Fwz3LmpuQDujfIYHMk/view?usp=sharing)
 
-### ⚡ Language & Tools
+### 🛠️ Language & Tools
 ![Java](https://img.shields.io/badge/-Java-E34A86?&logo=java&color=007396&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-kotlin?&logo=kotlin&color=blueviolet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-javascript?&logo=javascript&color=F7DF1E&logoColor=black)
