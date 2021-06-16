@@ -7,7 +7,7 @@
 * 💻 Currently working as Automation Engineer @ [Compare The Market](https://www.comparethemarket.com.au)
 * 🌱 Currently Learning Security Testing & Go Lang 
 * 📫 Reach me on: jid.madhu@gmail.com
-* 📝 [Resume](https://drive.google.com/file/d/1fZYQB8Ov950Jf-Fwz3LmpuQDujfIYHMk/view?usp=sharing)
+* 📝 [Resume](https://drive.google.com/file/d/12RP77OVOXH9-qSqAVbY8WjeKX7oCQFVt/view?usp=sharing)
 
 ### 🛠️ Language & Tools
 ![Java](https://img.shields.io/badge/-Java-E34A86?&logo=java&color=007396&logoColor=white)
