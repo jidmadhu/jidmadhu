@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jidhu%20Madhu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jidhum/)](https://www.linkedin.com/in/jidhum)  [![GitHub followers](https://img.shields.io/github/followers/jidmadhu?label=Follow&style=social)](https://github.com/jidmadhu/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-jid.madhu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jid.madhu@gmail.com)](mailto:jid.madhu@gmail.com)
 
 * 👋 I’m **Developer | Tester | Learner** <br>
-* 💻 Currently working as Automation Engineer @ [Compare The Market](https://www.comparethemarket.com.au)
+* 💻 Currently working as Automation Engineer @ [Heritage Bank](https://www.heritage.com.au/)
 * 🌱 Currently Learning Security Testing & Go Lang 
 * 📫 Reach me on: jid.madhu@gmail.com
 * 📝 [Resume](https://drive.google.com/file/d/12RP77OVOXH9-qSqAVbY8WjeKX7oCQFVt/view?usp=sharing)
