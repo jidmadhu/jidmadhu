@@ -28,4 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-Git-git?&logo=git&color=F05032&logoColor=%23ffffff)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?&logo=amazon-aws&color=232F3E&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-maven?&logo=apache-maven&color=C71A36)
+![Citrus](https://img.shields.io/badge/Citrus-S?logo=spring&color=white)
 
