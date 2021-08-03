@@ -5,7 +5,7 @@
 
 * 👋 I’m **Developer | Tester | Learner** <br>
 * 💻 Currently working as Automation Engineer @ [Alex Bank](https://www.alex.bank/)
-* 🌱 Currently Learning Security Testing & Go Lang 
+* 🌱 Currently research and implementing Automation Solutions 
 * 📫 Reach me on: jid.madhu@gmail.com
 * 📝 [Resume](https://drive.google.com/file/d/1HgxQt6_Jv7cQbFsfgTI7IceqLTt6C0B-/view?usp=sharing)
 
