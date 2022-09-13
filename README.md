@@ -28,7 +28,7 @@
 
 ### 📫 API Testing 
 ![Postman](https://img.shields.io/badge/-Post%20Man-postman?&logo=postman&color=FF6C37&logoColor=white)
-![RestSharp](https://img.shields.io/badge/-rstudio?&logo=rstudio&color=FF6C37&logoColor=white)
+![RestSharp](https://img.shields.io/badge/-rstudio?&logo=RestSharp&color=FF6C37&logoColor=white)
 ![RESTAPI](https://img.shields.io/badge/Rest%20Assured-restassured?&logo=restassured&color=darkblue) <br>
 ![Swagger](https://img.shields.io/badge/Swagger-maven?&logo=swagger&color=white)
 
@@ -40,6 +40,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?&logo=amazon-aws&color=232F3E&logoColor=white)
 
 ### 🌱 Performance Tools
-![Blazemeter](https://img.shields.io/badge/blazemeter?&logo=blazemeter&color=darkblue
-![JMeter](https://img.shields.io/badge/apachejmeter?&logo=apachejmeter&color=darkblue
+![Blazemeter](https://img.shields.io/badge/blazemeter?&logo=blazemeter&color=darkblue)
+![JMeter](https://img.shields.io/badge/apachejmeter?&logo=apachejmeter&color=darkblue)
 
