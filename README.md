@@ -40,6 +40,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?&logo=amazon-aws&color=232F3E&logoColor=white)
 
 ### 🌱 Performance Tools
-![Blazemeter](https://img.shields.io/badge/blazemeter?&logo=blazemeter&color=darkblue)
-![JMeter](https://img.shields.io/badge/apachejmeter?&logo=apachejmeter&color=darkblue)
+![BlazeMeter](https://img.shields.io/badge/-blazemeter-E34A86?&logo=blazemeter&color=007396&logoColor=darkblue)
+![JMeter](https://img.shields.io/badge/-apachejmeter-E34A86?&logo=apachejmeter&color=007396&logoColor=darkblue)
 
