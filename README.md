@@ -31,3 +31,6 @@
 ![Maven](https://img.shields.io/badge/Maven-maven?&logo=apache-maven&color=C71A36)
 ![Citrus](https://img.shields.io/badge/Citrus-S?logo=spring&color=white)
 
+### 💻 DevOps
+![AzureDevOps](https://img.shields.io/badge/-azuredevops-E34A86?&logo=azuredevops&color=007396&logoColor=white)
+![AzurePipeline](https://img.shields.io/badge/-azurepipelines-E34A86?&logo=azurepipelines&color=007396&logoColor=white)
