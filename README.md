@@ -10,7 +10,7 @@
 * 📝 [Resume](https://drive.google.com/file/d/1HgxQt6_Jv7cQbFsfgTI7IceqLTt6C0B-/view?usp=sharing)
 
 ### 🛠️ Language & Tools
-![C#](https://img.shields.io/badge/-csharp-E34A86?&logo=C#&color=007396&logoColor=white)
+![C#](https://img.shields.io/badge/-csharp-E34A86?&logo=csharp&color=007396&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?&logo=java&color=007396&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-kotlin?&logo=kotlin&color=blueviolet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-javascript?&logo=javascript&color=F7DF1E&logoColor=black)
