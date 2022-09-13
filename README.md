@@ -28,7 +28,7 @@
 
 ### 📫 API Testing 
 ![Postman](https://img.shields.io/badge/-Post%20Man-postman?&logo=postman&color=FF6C37&logoColor=white)
-![RestSharp](https://img.shields.io/badge/-rstudio?&logo=rstudio&color=FF6C37&logoColor=white)
+![RestSharp](https://img.shields.io/badge/-rstudio?&logo=rstudio&color=FF6C37&logoColor=darkblue)
 ![RESTAPI](https://img.shields.io/badge/Rest%20Assured-restassured?&logo=restassured&color=darkblue) <br>
 ![Swagger](https://img.shields.io/badge/Swagger-maven?&logo=swagger&color=white)
 
