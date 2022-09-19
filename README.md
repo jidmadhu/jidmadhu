@@ -7,7 +7,7 @@
 * 💻 Currently working as Automation Engineer @ [RSL Queensland](https://rslqld.org/)
 * 🌱 Currently research and implementing Automation Solutions 
 * 📫 Reach me on: jid.madhu@gmail.com
-* 📝 [Resume](https://drive.google.com/file/d/1HgxQt6_Jv7cQbFsfgTI7IceqLTt6C0B-/view?usp=sharing)
+* 📝 [Resume](https://drive.google.com/file/d/1gGsHeRLPkPTRNliGdMeXnBagAHQqMyQS/view?usp=sharing)
 
 ### 🛠️ Language
 ![C#](https://img.shields.io/badge/-csharp-E34A86?&logo=csharp&color=007396&logoColor=white)
