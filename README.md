@@ -3,10 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jidhu%20Madhu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jidhum/)](https://www.linkedin.com/in/jidhum)  [![GitHub followers](https://img.shields.io/github/followers/jidmadhu?label=Follow&style=social)](https://github.com/jidmadhu/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-jid.madhu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jid.madhu@gmail.com)](mailto:jid.madhu@gmail.com)
 
-* 👋 I’m **Developer | Learner** <br>
+* 👋 I’m **Web Developer | Continuous Learner** <br>
 * 💻 Currently working as Web Developer @ [RSL Queensland](https://rslqld.org/)
 * 📫 Reach me on: jid.madhu@gmail.com
-* 📝 [Resume](https://drive.google.com/file/d/1gGsHeRLPkPTRNliGdMeXnBagAHQqMyQS/view?usp=sharing)
 
 ### 🛠️ Programming Language
 ![C#](https://img.shields.io/badge/-csharp-E34A86?&logo=csharp&color=007396&logoColor=white)
@@ -15,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-javascript?&logo=javascript&color=F7DF1E&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-kotlin?&logo=kotlin&color=blueviolet)
 
-### 🛠️ Previously Worked on Automation Framework
+### 🛠️ Automation Framework
 ![Specflow](https://img.shields.io/badge/-specflow-E34A86?&logo=specflow&color=007396&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-cucumber?&logo=cucumber&color=23D96C&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-Selenium?&logo=selenium&color=darkgreen)
