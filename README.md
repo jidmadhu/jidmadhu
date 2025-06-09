@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jidhu%20Madhu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jidhum/)](https://www.linkedin.com/in/jidhum)  [![GitHub followers](https://img.shields.io/github/followers/jidmadhu?label=Follow&style=social)](https://github.com/jidmadhu/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-jid.madhu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jid.madhu@gmail.com)](mailto:jid.madhu@gmail.com)
 
 * 👋 I’m **Web Developer | Continuous Learner** <br>
-* 💻 Currently working as Web Developer @ [RSL Queensland](https://rslqld.org/)
+* 💻 Full Stack Developer @ [RSL Queensland](https://rslqld.org/)
 * 📫 Reach me on: jid.madhu@gmail.com
 
 ### 🛠️ Programming Language
